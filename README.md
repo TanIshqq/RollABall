@@ -1,8 +1,9 @@
 # RollABall
 
-*It's a simple old school game wherein you roll a ball on screen to collect items on board. 
-*Input is handled on mac via arrow keys and on phones using accelorometer.
-*Score card and game status maintained.
+* It's a simple old school game wherein you roll a ball on screen to collect items on board. 
+* Input is handled on mac via arrow keys and on phones using accelorometer.
+* Score card and game status maintained.
+
 
 ## Demo
 
